@@ -31,4 +31,4 @@
 
 ## Screenshot Aplikasi
 
-![Screenshot](./screenshot/screenshot.png)
+![screenshot](./screenshot/bukti1.png)
