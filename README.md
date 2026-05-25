@@ -8,27 +8,19 @@
 ---
 
 ## Fitur Aplikasi
-✅ Profile Card  
-✅ Foto Profil  
-✅ Motto  
-✅ Hobi Chips  
-✅ Counter Kunjungan  
-✅ Reset Counter  
-✅ Alert Informasi  
-✅ Counter Kopi ☕  
-✅ Counter Air Minum 💧  
-✅ Emoji 🔥 ketika counter ≥ 5  
-✅ Tombol Bagikan Profil  
+- Profile Card
+- Counter Kunjungan
+- Counter Kopi ☕
+- Counter Air 💧
+- Alert Informasi
+- Bagikan Profil
 
 ---
 
-## Teknologi
-- React Native
-- Expo
-- JavaScript
+## Screenshot
 
----
+### Tampilan 1
+![Screenshot1](./screenshot/bukti1.jpeg)
 
-## Screenshot Aplikasi
-
-![screenshot](./screenshot/bukti1.png)
+### Tampilan 2
+![Screenshot2](./screenshot/bukti2.jpeg)
